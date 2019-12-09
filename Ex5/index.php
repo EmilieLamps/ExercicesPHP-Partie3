@@ -1,7 +1,6 @@
 <?php
 $page = "Exercice 5"; // Définir la variable pour changer le titre !
 $number = 1;
-$message = '';
 include '../header.php';
  ?>
  <h2 class="text-primary text-center pt-5 pb-5 font-weight-bold">Exercice 5</h2>
