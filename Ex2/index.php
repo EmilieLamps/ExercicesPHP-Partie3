@@ -18,7 +18,7 @@ Tant que la première variable n'est pas supérieure à 20 :
 // utiliser la boucle do/while
   do {
     $multiplyResult = $firstVar * $secondVar;
-    echo $multiplyResult;
+    echo $multiplyResult. '<br/>';
     $message = $multiplyResult;
     $firstVar++;
   } while ($firstVar <= 20);
